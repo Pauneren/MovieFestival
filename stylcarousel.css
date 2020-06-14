@@ -1,0 +1,22 @@
+#slider {
+    margin-top: 60px;
+    
+}
+
+#slider .item {
+    height: 400px;
+    
+}
+
+#slide1 {
+    background: url(Images/foto-festival1.PNG) center no-repeat;
+}
+
+#slide2 {
+     background: url(Images/foto-festival2.PNG) 
+     center no-repeat;
+}
+
+#slide3 {
+    background: url(Images/foto-festival3.PNG) center no-repeat;
+}
